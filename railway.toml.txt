@@ -1,0 +1,7 @@
+[build]
+builder = "NIXPACKS"
+
+[deploy]
+startCommand = "python aman_ofc_store_bot.py"
+restartPolicyType = "ON_FAILURE"
+restartPolicyMaxRetries = 10

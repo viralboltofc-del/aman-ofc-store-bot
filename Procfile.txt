@@ -1,0 +1,1 @@
+worker: python aman_ofc_store_bot.py
